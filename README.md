@@ -8,7 +8,7 @@ If you use this, just be sure to place this at the start of your sound engine co
 ; * 1 for Sonic 1
 ; * 2 for Sonic 2
 ; * 3 for Sonic 3
-; * 4 for Sonic & Knuckles/Sonic 3D (I think)
+; * 4 for Sonic & Knuckles (and Sonic 3D?)
 ; * 5 for flamedriver
 SonicDriverVer			= 5
 ; Set the following to non-zero to use all S2 DAC samples, or to zero otherwise.
